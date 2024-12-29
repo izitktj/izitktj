@@ -17,8 +17,6 @@ Desde o design de chips em **HDL** até o desenvolvimento de aplicações consum
 
 ## 🌐 Conecte-se Comigo
 - 🌟 [GitHub](https://github.com/izitktj)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-almeida-6b46a5323/)
-- 📷 [Instagram](https://www.instagram.com/gustavo.tktj/)
 
 ---
 # Repositorios fixados!
